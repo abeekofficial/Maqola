@@ -1,0 +1,254 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "React.js: Komponentlar va Props",
+      "author": "Ali Valiyev",
+      "date": "2023-10-01",
+      "content": "React.js - bu Facebook tomonidan ishlab chiqilgan JavaScript kutubxonasi. U komponentlar asosida ishlaydi va ular orqali interfeyslarni yaratish imkonini beradi. Props esa komponentlarga ma'lumotlarni uzatish uchun ishlatiladi.",
+      "category": "Dasturlash",
+      "tags": ["React", "JavaScript", "Frontend"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 2,
+      "title": "Python: Dasturlashning Eng Samarali Tili",
+      "author": "Hasan Hasanov",
+      "date": "2023-09-25",
+      "content": "Python - bu oddiy va kuchli dasturlash tili. U ma'lumotlar tahlili, sun'iy intellekt va veb-ilovalar yaratishda keng qo'llaniladi. Pythonning sintaksisi oddiy va o'rganish qulay.",
+      "category": "Dasturlash",
+      "tags": ["Python", "Dasturlash", "AI"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 3,
+      "title": "Marketing Strategiyalari",
+      "author": "Zarina Qosimova",
+      "date": "2023-08-12",
+      "content": "Marketing strategiyalari mijozlar bazasini kengaytirish va brendni rivojlantirishga yordam beradi. Turli kanallar orqali targ'ibot ishlari samarali olib boriladi.",
+      "category": "Marketing",
+      "tags": ["Marketing", "Strategiya", "Tadbirkorlik"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 4,
+      "title": "Zamonaviy Dizayn Tamoyillari",
+      "author": "Sodiq Sobirov",
+      "date": "2023-07-10",
+      "content": "Zamonaviy dizayn tamoyillari oddiylik va funksionallikni ta'kidlaydi. Minimalistik uslub va toza interfeys yaratish muhimdir.",
+      "category": "Dizayn",
+      "tags": ["Dizayn", "Minimalizm", "UI/UX"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 5,
+      "title": "Blockchain Texnologiyasining Kelajagi",
+      "author": "Bekzod Ortiqov",
+      "date": "2023-06-15",
+      "content": "Blockchain texnologiyasi kriptovalyutalar bilan bir qatorda ko'plab sohalarda inqilobiy o'zgarishlarni keltirib chiqarmoqda.",
+      "category": "Texnologiya",
+      "tags": ["Blockchain", "Texnologiya", "Kripto"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 6,
+      "title": "Sun'iy Intellekt Va Uning Dasturdagi Roli",
+      "author": "Gulnoza Karimova",
+      "date": "2023-05-20",
+      "content": "Sun'iy intellekt hozirda texnologiya sohasida katta rivojlanishga sabab bo'lmoqda. Uning dasturlarda qo'llanishi kiberxavfsizlikdan tortib, ma'lumotlar tahliligacha kirib bormoqda.",
+      "category": "AI",
+      "tags": ["Sun'iy Intellekt", "AI", "Texnologiya"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 7,
+      "title": "SEO: Veb-saytlar Uchun Optimallashtirish",
+      "author": "Mirjalol Qobilov",
+      "date": "2023-04-18",
+      "content": "SEO veb-saytlarni qidiruv tizimlarida yuqori o'rinlarni egallashiga yordam beradi. Kalit so'zlar va kontentning to'g'ri optimallashtirilishi buning asosi hisoblanadi.",
+      "category": "SEO",
+      "tags": ["SEO", "Qidiruv", "Veb"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 8,
+      "title": "Biznes Modellari",
+      "author": "Akmal Ibrohimov",
+      "date": "2023-03-30",
+      "content": "Biznes modellari tadbirkorlar uchun muvaffaqiyatli biznesni boshqarish va rivojlantirishda muhim rol o'ynaydi. Turli xil modellardan foydalanish biznes natijalariga ta'sir ko'rsatadi.",
+      "category": "Biznes",
+      "tags": ["Biznes", "Strategiya", "Modellar"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 9,
+      "title": "Tadbirkorlik Va Innovatsiya",
+      "author": "Iroda Qodirova",
+      "date": "2023-02-25",
+      "content": "Innovatsiya tadbirkorlikda muhim rol o'ynaydi. Yangi g'oyalar va texnologiyalar muvaffaqiyatli bizneslarni shakllantiradi.",
+      "category": "Tadbirkorlik",
+      "tags": ["Innovatsiya", "Biznes", "Tadbirkorlik"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 10,
+      "title": "Raqamli Marketingning Kelajagi",
+      "author": "Maqsud Rahimov",
+      "date": "2023-01-15",
+      "content": "Raqamli marketing raqamli platformalar orqali mijozlarga yetib borishning samarali yo'lidir. Ushbu soha kundan-kunga rivojlanib bormoqda.",
+      "category": "Marketing",
+      "tags": ["Raqamli Marketing", "Platforma", "Brend"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 11,
+      "title": "Kiberxavfsizlik: Zamonaviy Dasturlar",
+      "author": "Zafar To'xtasinov",
+      "date": "2022-12-05",
+      "content": "Kiberxavfsizlik sohasidagi dasturlar ma'lumotlarni himoya qilishda muhim ahamiyatga ega. Ular kiber hujumlarga qarshi kurashda samarali vosita hisoblanadi.",
+      "category": "Kiberxavfsizlik",
+      "tags": ["Kiberxavfsizlik", "Himoya", "Dasturlar"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 12,
+      "title": "Shaxsiy Rivojlanish Va Liderlik",
+      "author": "Shoira Karimova",
+      "date": "2022-11-10",
+      "content": "Shaxsiy rivojlanish va liderlik ko'nikmalari har bir inson uchun muhim. Bu orqali o'z-o'zini rivojlantirish va muvaffaqiyatga erishish mumkin.",
+      "category": "Rivojlanish",
+      "tags": ["Rivojlanish", "Liderlik", "Ko'nikmalar"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 13,
+      "title": "Ma'lumotlar Tahlili Va Data Science",
+      "author": "Diyorbek Salimov",
+      "date": "2022-10-20",
+      "content": "Ma'lumotlar tahlili va Data Science hozirda biznes qarorlar qabul qilishda muhim ahamiyatga ega. Tahlil orqali tashkilotlar o'z ma'lumotlaridan samarali foydalanishlari mumkin.",
+      "category": "Ma'lumotlar",
+      "tags": ["Data Science", "Tahlil", "Ma'lumotlar"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 14,
+      "title": "Machine Learning: Algoritmlar Asosi",
+      "author": "Rustam Alimov",
+      "date": "2022-09-15",
+      "content": "Machine Learning algoritmlari sun'iy intellektning asosiy qismi hisoblanadi. Ular o'rganish jarayonini avtomatlashtirish orqali yangi bilimlar yaratadi.",
+      "category": "AI",
+      "tags": ["Machine Learning", "Algoritmlar", "AI"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 15,
+      "title": "Veb Dizayn: Zamonaviy Trendlari",
+      "author": "Madina Tursunova",
+      "date": "2022-08-25",
+      "content": "Zamonaviy veb dizayn tendensiyalari UX/UI ga asoslangan bo'lib, foydalanuvchi tajribasini yaxshilashga qaratilgan. Minimalizm, qulay interfeyslar va animatsiyalar juda mashhur.",
+      "category": "Dizayn",
+      "tags": ["Veb Dizayn", "UX", "UI"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 16,
+      "title": "Tadbirkorlikda Innovatsion Loyihalar",
+      "author": "Dilshod Saydullayev",
+      "date": "2022-07-05",
+      "content": "Innovatsion loyihalar tadbirkorlikda yangi yo'nalishlar ochishga yordam beradi. Ular mijozlar ehtiyojlarini qondirish va bozorni rivojlantirish uchun qulay imkoniyatlar yaratadi.",
+      "category": "Tadbirkorlik",
+      "tags": ["Innovatsiya", "Loyihalar", "Biznes"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 17,
+      "title": "Kiberxavfsizlikning Kelajagi",
+      "author": "Shoxrux Xoliqov",
+      "date": "2022-06-15",
+      "content": "Kiberxavfsizlik sohasidagi texnologiyalar o'sib bormoqda. Sun'iy intellekt va mashina o'rganish bu sohada yangi himoya choralari yaratishga imkon bermoqda.",
+      "category": "Kiberxavfsizlik",
+      "tags": ["Kiberxavfsizlik", "AI", "Mashina O'rganish"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 18,
+      "title": "Dasturiy Ta'minot Ishlab Chiqishning Eng Yaxshi Amaliyotlari",
+      "author": "Farhod Yusupov",
+      "date": "2022-05-30",
+      "content": "Dasturiy ta'minot ishlab chiqishda kod sifati va arxitekturani to'g'ri tuzish juda muhimdir. Eng yaxshi amaliyotlar ish samaradorligini oshiradi.",
+      "category": "Dasturlash",
+      "tags": ["Dasturiy Ta'minot", "Kod Sifati", "Ishlab Chiqish"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 19,
+      "title": "Startaplar Uchun Eng Yaxshi Moliyalashtirish Strategiyalari",
+      "author": "Orif Sattorov",
+      "date": "2022-04-22",
+      "content": "Startaplar uchun eng muhim omillardan biri moliyalashtirishdir. To'g'ri strategiyalar orqali biznes rivojini moliyaviy jihatdan ta'minlash mumkin.",
+      "category": "Biznes",
+      "tags": ["Startaplar", "Moliyalashtirish", "Strategiya"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 20,
+      "title": "Digital Transformatsiya Va Uning Ahamiyati",
+      "author": "Olim Shodiev",
+      "date": "2022-03-10",
+      "content": "Digital transformatsiya hozirda har bir sohada qo'llanilib, samaradorlik va raqobatbardoshlikni oshirish uchun muhim vosita hisoblanadi.",
+      "category": "Texnologiya",
+      "tags": ["Digital Transformatsiya", "Texnologiya", "Rivojlanish"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 21,
+      "title": "JavaScript: Asosiy Ma'lumotlar",
+      "author": "Azizbek Toshpo'latov",
+      "date": "2022-02-20",
+      "content": "JavaScript - veb rivojlanish uchun muhim dasturlash tili. U orqali dinamik interfeyslar va interaktiv elementlar yaratish mumkin.",
+      "category": "Dasturlash",
+      "tags": ["JavaScript", "Veb", "Frontend"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 22,
+      "title": "UX Dizaynining Asosiy Tamoyillari",
+      "author": "Yulduzbek Ergashev",
+      "date": "2022-01-15",
+      "content": "UX dizayn foydalanuvchi tajribasini yaxshilash va interfeyslarni qulayroq qilish maqsadida qo'llaniladi. Asosiy tamoyillar mijozning ehtiyojlarini tushunish va shu asosda dizayn yaratishni o'z ichiga oladi.",
+      "category": "Dizayn",
+      "tags": ["UX", "UI", "Interfeys"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 23,
+      "title": "Sun'iy Intellektning Tibbiyotdagi Roli",
+      "author": "Malika Soliyeva",
+      "date": "2021-12-05",
+      "content": "Sun'iy intellekt tibbiyotda tashxis qo'yish, davolash va tibbiy tadqiqotlarni rivojlantirishda muhim rol o'ynaydi.",
+      "category": "AI",
+      "tags": ["Sun'iy Intellekt", "Tibbiyot", "AI"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 24,
+      "title": "Ma'lumotlar Bazasini Optimallashtirish",
+      "author": "Ulug'bek Karimov",
+      "date": "2021-11-12",
+      "content": "Ma'lumotlar bazasini optimallashtirish orqali ma'lumotlarni tezroq qayta ishlash va samaradorlikni oshirish mumkin. Indekslar va tuzilmalarni to'g'ri tashkil qilish bu jarayonning asosi hisoblanadi.",
+      "category": "Ma'lumotlar",
+      "tags": ["Ma'lumotlar Baza", "Optimallashtirish", "Indekslar"],
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 25,
+      "title": "PHP: Dinamik Veb-saytlar Yaratish",
+      "author": "Otabek Eshonov",
+      "date": "2021-10-25",
+      "content": "PHP bu dinamik veb-saytlar va veb-ilovalar yaratish uchun keng qo'llaniladigan server tomondagi dasturlash tili hisoblanadi.",
+      "category": "Dasturlash",
+      "tags": ["PHP", "Veb", "Backend"],
+      "image": "https://picsum.photos/200/300"
+    }
+  ]
+}
