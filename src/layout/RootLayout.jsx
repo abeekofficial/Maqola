@@ -1,5 +1,6 @@
 import React from "react";
 import { NavLink, Outlet } from "react-router-dom";
+import BreadCrumbs from "../components/BreadCrumps";
 
 const RootLayout = () => {
   return (
@@ -8,11 +9,12 @@ const RootLayout = () => {
         <h3 className="font-bold text-2xl">Maqola</h3>
         <nav className="">
           <NavLink to="/">Bosh sahifa</NavLink>
-          <NavLink to="/about">Biz haqimizda</NavLink>
           <NavLink to="/articles">Maqolalar</NavLink>
-          <NavLink to="/contactLayout">Bog'lanish</NavLink>
+          <NavLink to="/about">Biz haqimizda</NavLink>
+          <NavLink to="/contact">Bog'lanish</NavLink>
         </nav>
       </header>
+      <BreadCrumbs />
       <main>
         <Outlet />
       </main>

@@ -15,7 +15,7 @@ const ContactLayout = () => {
       <nav className="mt-10">
         <NavLink
           className={({ isActive }) =>
-            `mr-5 px-3 py-1 text-blue ${isActive ? "bg-black text-white" : ""}`
+            `mr-5 px-3 py-1 text-blue-500 ${isActive && "bg-black text-white"}`
           }
           to="faq"
         >
@@ -24,7 +24,7 @@ const ContactLayout = () => {
         {/* Relative path */}
         <NavLink
           className={({ isActive }) =>
-            `px-3 py-1 text-blue ${isActive ? "bg-black text-white" : ""}`
+            `px-3 py-1 text-blue-500 ${isActive && "bg-black text-white"}`
           }
           to="form"
         >

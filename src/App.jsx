@@ -8,6 +8,8 @@ import Faq from "./pages/help/Faq";
 import Form from "./pages/help/Form";
 import PageNotFound from "./pages/help/PageNotFound";
 import ArticlesLayout from "./layout/ArticlesLayout";
+import Articles from "./pages/articles/Articles";
+import ArticlesDetail from "./pages/articles/ArticlesDetail";
 
 function App() {
   const routes = createBrowserRouter([
@@ -18,14 +20,21 @@ function App() {
         { index: true, element: <Home /> },
         { path: "about", element: <About /> },
         {
-          path: "contactLayout",
+          path: "contact",
           element: <ContactLayout />,
           children: [
             { path: "faq", element: <Faq /> }, // Nested route for FAQ
             { path: "form", element: <Form /> }, // Nested route for Form
           ],
         },
-        { path: "/articles", element: <ArticlesLayout /> },
+        {
+          path: "articles",
+          element: <ArticlesLayout />,
+          children: [
+            { index: true, element: <Articles /> },
+            { path: ":id", element: <ArticlesDetail /> },
+          ],
+        },
         { path: "*", element: <PageNotFound /> },
       ],
     },
